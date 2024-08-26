@@ -24,7 +24,7 @@
                <ul class="list">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About us</a></li>
-                <li><a href="#">Our menu</a></li>
+               
                 <li><a href="#">Reservation</a></li>
                 <li><a href="#">Contact</a></li>
                 <li style="float:right"><a href="login.php" >تسجيل دخول</a></li>
